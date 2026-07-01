@@ -1,0 +1,72 @@
+[
+    {
+        "content_id": "5aab164b-4f1a-4ec6-84b3-3be8ff03eca4",
+        "creator_id": "test-user-1",
+        "timestamp": "2026-07-01T00:10:46.057478+00:00",
+        "attribution": "likely_human",
+        "confidence": 0.2,
+        "llm_score": 0.2,
+        "status": "classified"
+    },
+    {
+        "content_id": "9c1f1a34-9532-4997-b5c6-c28c193d2cc7",
+        "creator_id": "test-user-1",
+        "timestamp": "2026-07-01T00:31:33.038497+00:00",
+        "attribution": "likely_human",
+        "confidence": 0.32,
+        "signal_1_llm": 0.2,
+        "signal_2_stylo": 0.5,
+        "status": "under_review",
+        "appeal_reasoning": "I wrote this myself from personal experience. I am a non-native English speaker and my writing style may appear more formal than typical."
+    },
+    {
+        "content_id": "3683c8d0-5cf3-4cbb-bc1d-7daa9b89fdef",
+        "creator_id": "test",
+        "timestamp": "2026-07-01T00:36:29.085828+00:00",
+        "attribution": "uncertain",
+        "confidence": 0.74,
+        "signal_1_llm": 0.9,
+        "signal_2_stylo": 0.5,
+        "status": "classified"
+    },
+    {
+        "content_id": "ca253744-a958-49e4-af97-6067e2d36316",
+        "creator_id": "test",
+        "timestamp": "2026-07-01T00:36:29.363790+00:00",
+        "attribution": "uncertain",
+        "confidence": 0.74,
+        "signal_1_llm": 0.9,
+        "signal_2_stylo": 0.5,
+        "status": "classified"
+    },
+    {
+        "content_id": "b31a5b16-43b2-4a14-b3ca-16618a0cbffb",
+        "creator_id": "test",
+        "timestamp": "2026-07-01T00:36:29.690617+00:00",
+        "attribution": "uncertain",
+        "confidence": 0.74,
+        "signal_1_llm": 0.9,
+        "signal_2_stylo": 0.5,
+        "status": "classified"
+    },
+    {
+        "content_id": "a9fd54c7-477b-4449-9807-165f89598967",
+        "creator_id": "test",
+        "timestamp": "2026-07-01T00:36:29.847994+00:00",
+        "attribution": "uncertain",
+        "confidence": 0.74,
+        "signal_1_llm": 0.9,
+        "signal_2_stylo": 0.5,
+        "status": "classified"
+    },
+    {
+        "content_id": "15046c05-d648-48d1-9b33-8c4215f92508",
+        "creator_id": "test",
+        "timestamp": "2026-07-01T00:36:30.197307+00:00",
+        "attribution": "uncertain",
+        "confidence": 0.74,
+        "signal_1_llm": 0.9,
+        "signal_2_stylo": 0.5,
+        "status": "classified"
+    }
+]
