@@ -1,6 +1,8 @@
 # ai201-project4-provenance-guard
 This is the repo for uploading project 4 assignment for AI201 codepath course. 
 
+[![Walkthrough video](https://img.youtube.com/vi/BmcCF_PFaVQ/0.jpg)](https://youtu.be/BmcCF_PFaVQ)
+
 *Provenance Guard*
 
 Provenance Guard is a backend classification system designed for creative sharing platforms to evaluate whether submitted text is human-written or AI-generated. Instead of relying on a binary output, this system uses a multi-signal detection pipeline to calculate a calibrated confidence score, surfacing a plain-language transparency label to users while maintaining a robust audit log and appeals workflow for creators.
